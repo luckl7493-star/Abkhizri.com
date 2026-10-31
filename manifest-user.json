@@ -2,7 +2,7 @@
  "id": "user-v4",
  "name": "Aab-e-Khizri User",
  "short_name": "Khizri User",
- "start_url": "./user.html",
+ "start_url": "./#user",
  "scope": "./",
  "display": "standalone",
  "orientation": "portrait",

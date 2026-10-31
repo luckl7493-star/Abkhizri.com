@@ -2,7 +2,7 @@
  "id": "admin-v4",
  "name": "Aab-e-Khizri Admin",
  "short_name": "Khizri Admin",
- "start_url": "./admin.html",
+ "start_url": "./#admin",
  "scope": "./",
  "display": "standalone",
  "orientation": "portrait",

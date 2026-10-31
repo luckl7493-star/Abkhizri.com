@@ -2,7 +2,7 @@
  "id": "customer-v4",
  "name": "Aab-e-Khizri",
  "short_name": "Khizri",
- "start_url": "./customer.html",
+ "start_url": "./#customer",
  "scope": "./",
  "display": "standalone",
  "orientation": "portrait",
